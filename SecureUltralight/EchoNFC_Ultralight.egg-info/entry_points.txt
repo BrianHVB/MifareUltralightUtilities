@@ -1,0 +1,4 @@
+
+        [console_scripts]
+        ultralight-tools=ultralight_tools:main
+    
